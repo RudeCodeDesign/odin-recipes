@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    background-color: royalblue;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+  }
+  #odin {
+width: 100%;
+
+
+  }
+  a:link{
+      color: white;
+      text-decoration: none;
+  }
+
+a:visited {
+    color: white;
+text-decoration: none;
+}
+  
+  li{
+list-style: none;
+  }
+  #lasagna{
+      max-width: 1000px;
+      padding: 1%;
+  }
+  #pancakes{
+    max-width: 1000px;
+    padding: 1%;
+    
+  }
+  #pizza{
+    max-width: 1000px;
+    padding: 1%;
+  }
